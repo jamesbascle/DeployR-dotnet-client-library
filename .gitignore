@@ -25,3 +25,8 @@
 *.sublime-workspace
 *.sublime-project
 
+src/.vs/deployR/v14/.suo
+src/packages/*
+src/bin/*
+src/obj/*
+src/DeployR.xml
