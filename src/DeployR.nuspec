@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <authors>Microsoft</authors>
+  <id>DeployR.NetClient</id>
+  <version>$version$</version>
+  <description>
+    The DeployR API exposes a wide range of R analytics services to client application developers. These services are exposed using standards based JSON/XML and are delivered by the DeployR server as Web services over HTTP(S).
+    The DeployR .NET client library is provided to simplify the integration of DeployR services within .NET client applications.
+  </description>
   <metadata>
-    <id>DeployR.NetClient</id>
-    <version>$version$</version>
     <licenseUrl>http://opensource.org/licenses/Apache-2.0</licenseUrl>
     <projectUrl>https://github.com/jamesbascle/DeployR-dotnet-client-library</projectUrl>
     <onwers>jamesbascle</onwers>
-    <description>
-      The DeployR API exposes a wide range of R analytics services to client application developers. These services are exposed using standards based JSON/XML and are delivered by the DeployR server as Web services over HTTP(S).
-      The DeployR .NET client library is provided to simplify the integration of DeployR services within .NET client applications.
-    </description>
     <releaseNotes>Original project found at https://github.com/Microsoft/dotnet-client-library from Microsoft. Changes made to upgrade and distribute as a NuGet package can be found at the included project site link. </releaseNotes>
-    <authors>Microsoft</authors>
-  </metadata>
+    </metadata>
 </package>
