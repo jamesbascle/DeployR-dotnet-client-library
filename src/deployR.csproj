@@ -196,11 +196,9 @@
     <Compile Include="RUserRepositoryScriptImpl.cs" />
   </ItemGroup>
   <ItemGroup>
-    <WCFMetadata Include="Service References\" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="DeployR.snk" />
     <None Include="packages.config" />
+    <None Include="DeployR.NetClient.nuspec" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
